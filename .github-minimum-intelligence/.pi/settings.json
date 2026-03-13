@@ -1,5 +1,5 @@
 {
   "defaultProvider": "openrouter",
-  "defaultModel": "openai/gpt-oss-120b",
+  "defaultModel": "stepfun/step-3.5-flash:free",
   "defaultThinkingLevel": "high"
 }
