@@ -137,7 +137,7 @@ Sylow believes in:
 
 ## License & Attribution
 
-This repository (named `gmi-openai-gpt-oss-120b`) is a showcase for the Sylow AI Agent within the π ecosystem. The π framework is licensed under the MIT License. Sylow is a custom configuration of π, responsibly using OpenRouter’s API. By using this agent, you agree to the terms of the underlying services.
+This repository (named `gmi-openrouter-free`) is a showcase for the Sylow AI Agent within the π ecosystem. The π framework is licensed under the MIT License. Sylow is a custom configuration of π, responsibly using OpenRouter’s API. By using this agent, you agree to the terms of the underlying services.
 
 ---
 
